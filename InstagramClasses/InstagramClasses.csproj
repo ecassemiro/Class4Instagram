@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Zonaro</Authors>
+    <Company>{InnerCode}</Company>
+    <Description>Easy deserialize a json response from Instagram public URL. Just get the json body response of any user or hashtag URL by adding __a=1 to querystring</Description>
+    <Product>Instagram Classes</Product>
+    <PackageId>Class4InstagramA1</PackageId>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageTags>linqpad-samples, instagram, restsharp, json, nokey</PackageTags>
+    <FileVersion>1.0.0.1</FileVersion>
+    <AssemblyVersion>1.0.0.1</AssemblyVersion>
+    <RepositoryUrl>https://github.com/zonaro/Class4Instagram</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageIcon>INSTAGRAM.png</PackageIcon>
+    <PackageIconUrl />
+    <PackageProjectUrl>https://github.com/zonaro/Class4Instagram</PackageProjectUrl>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\..\zonar\Pictures\diego\INSTAGRAM.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
