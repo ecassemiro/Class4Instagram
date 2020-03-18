@@ -17,6 +17,7 @@
     <PackageIcon>INSTAGRAM.png</PackageIcon>
     <PackageIconUrl />
     <PackageProjectUrl>https://github.com/zonaro/Class4Instagram</PackageProjectUrl>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
